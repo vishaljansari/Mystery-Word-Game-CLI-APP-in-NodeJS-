@@ -10,13 +10,6 @@ The app should display a help menu by typing:
 node cli.js -h
 The app should allow you to pick a difficulty (easy or hard): 
 node cli.js --difficulty easy or node cli.js -d easy
-(1a) Your homework should contain:
-
-the word list provided
-cli.js
-app.js
-package.json
-Upload your homework as a .zip.
 
 
 [2] Based on the diffculty the app should pick a word at random. Using the hw4._words.js file on github. - The word should NOT be hard coded. - All words for the app to use should be contained in a separate file(s). 
