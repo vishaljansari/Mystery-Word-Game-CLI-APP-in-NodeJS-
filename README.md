@@ -16,7 +16,8 @@ node cli.js --difficulty easy or node cli.js -d easy
 
 [3] The app should follow the rules that are outlined in the below section on How the Game is Played. 
 
-[4] While playing the game the user should be able to: - Get a hint. 
+[4] While playing the game the user should be able to: - Get a hint.
+
 - (Fills in a letter that is contained the least amount of times in a word and then closest to the start of the word) 
 - For example: If the mystery word is: amazon The the hint would fill in 'm'. If another hint is asked for then 'z'. 
 - For example: If the mystery word is: books The the hint would fill in 'b'. If another hint is asked for then 'k'. 
